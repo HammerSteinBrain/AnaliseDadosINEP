@@ -1,7 +1,7 @@
 # Analise de Dados INEP
 Análise de dados do ensino superior:
-* Gráfico de barras, quantidade de universidades públicas por região do pais
-* Gráfico de pizza, Distribuição de faculdades e universidades publicas por região do pais
+* Gráfico de barras, distribuição em porcentagem de universidades públicas por região do pais
+* Gráfico de pizza, Distribuição em porcentagem de faculdades e universidades publicas por região do pais
 * Porcentagem de crescimento das instituições públicas ao longo dos anos
 * Box Plot, variação do volume de dados analisados entre 2014 e 2017, com isso temos a média e a mediada do volume de dados.
 
