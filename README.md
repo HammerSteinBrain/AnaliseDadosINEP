@@ -1,8 +1,38 @@
-# Analise de Dados INEP
-Análise de dados do ensino superior:
-* Gráfico de barras, distribuição em porcentagem de universidades públicas por região do pais
+# Projeto de Banco de Dados Não Estruturados - Analise de Dados INEP
+
+* Gráfico de barras, distribuição de universidades/faculdades públicas por região do pais
 * Gráfico de pizza, Distribuição em porcentagem de faculdades e universidades publicas por região do pais
-* Porcentagem de crescimento das instituições públicas ao longo dos anos
+* Crescimento das instituições públicas ao longo dos anos (2014 e 2017)
 * Box Plot, variação do volume de dados analisados entre 2014 e 2017, com isso temos a média e a mediada do volume de dados.
 
+Trabalho para a disciplica de Projeto de Banco de Dados Não Estruturados
+Professor Masanori
+
+### Pre-requisitos
+
+Executar o projeto em python
+
+Executar o projeto na plataforma Jupyter Notebook
+
+### Exemplo de grafico analisado
+![alt text](https://github.com/HammerSteinBrain/TabataBot/blob/master/grafico_pizza.png)
+
+## Desenvolvimento
+-Python 3.x
+-pandas
+-numpy
+-matplotlib
+
+## Contruido com:
+
+* [Python](https://www.python.org/doc/) - The language used
+* [pandas](https://pandas.pydata.org) - API used
+* [numpy](https://numpy.org) - API used
+* [matplotlib](https://matplotlib.org) - API used
+
 * Link dos dados analisados: https://inepdata.inep.gov.br/analytics/saw.dll?PortalGo&PortalPath=%2Fshared%2FCenso%20da%20Educação%20Superior%20-%20InepData%2FArquivos%2FCenso%2FConsolidado%2FInstituições%20de%20Ensino%20Superior%2FAnálises%2FPúblico%20Geral%2FIES%20-%20Por%20Abrangência%20Geográfica&Page=page%201&ViewID=d%3Adashboard~p%3A3aevgn02432ccavj~r%3Ar712aahr7dlommoa&BookmarkState=ts70dlc7arujvsq4674naf9eve&options=bsfdl
+
+
+## Autores e contribuidores
+
+* **Rodrigo Lopes** - *Initial work* - [Lebbit](https://github.com/hammersteinbrain)
