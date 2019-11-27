@@ -31,7 +31,7 @@ Executar o projeto na plataforma Jupyter Notebook
 * [matplotlib](https://matplotlib.org) - API used
 
 * Link dos dados analisados: 
-* [Número de Instituições de Educação Superior](https://github.com/HammerSteinBrain/AnaliseDadosINEP/blob/master/"Número de IES.csv")
+* [Número de Instituições de Educação Superior](https://github.com/HammerSteinBrain/AnaliseDadosINEP/blob/master/Número_de_IES.csv)
 
 
 ## Autores e contribuidores
