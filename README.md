@@ -23,7 +23,7 @@ Executar o projeto na plataforma Jupyter Notebook
 -numpy
 -matplotlib
 
-## Contruido com:
+## Construido com:
 
 * [Python](https://www.python.org/doc/) - The language used
 * [pandas](https://pandas.pydata.org) - API used
