@@ -30,7 +30,8 @@ Executar o projeto na plataforma Jupyter Notebook
 * [numpy](https://numpy.org) - API used
 * [matplotlib](https://matplotlib.org) - API used
 
-* Link dos dados analisados: https://inepdata.inep.gov.br/analytics/saw.dll?PortalGo&PortalPath=%2Fshared%2FCenso%20da%20Educação%20Superior%20-%20InepData%2FArquivos%2FCenso%2FConsolidado%2FInstituições%20de%20Ensino%20Superior%2FAnálises%2FPúblico%20Geral%2FIES%20-%20Por%20Abrangência%20Geográfica&Page=page%201&ViewID=d%3Adashboard~p%3A3aevgn02432ccavj~r%3Ar712aahr7dlommoa&BookmarkState=ts70dlc7arujvsq4674naf9eve&options=bsfdl
+* Link dos dados analisados: 
+* [Número de Instituições de Educação Superior](https://github.com/HammerSteinBrain/AnaliseDadosINEP/blob/master/Número de IES.csv)
 
 
 ## Autores e contribuidores
