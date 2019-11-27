@@ -15,7 +15,7 @@ Executar o projeto em python
 Executar o projeto na plataforma Jupyter Notebook
 
 ### Exemplo de grafico analisado
-![alt text](https://github.com/HammerSteinBrain/TabataBot/blob/master/grafico_pizza.png)
+![alt text](https://github.com/HammerSteinBrain/AnaliseDadosINEP/blob/master/grafico_pizza.png)
 
 ## Desenvolvimento
 -Python 3.x
